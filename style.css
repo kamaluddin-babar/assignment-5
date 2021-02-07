@@ -20,3 +20,9 @@
 .pointer{
     cursor: pointer;
 }
+.color{
+    color:orange;
+}
+.list-color{
+    color: greenyellow;
+}

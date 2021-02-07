@@ -83,11 +83,11 @@ function displayFoodDetails(foodName) {
                         <h6><b>Ingredients</b></h6>
                     </div>
                     <ul class="list-group list-group-flush mt-0 mb-0 pt-0 pb-0">
-                        <li class="list-group-item mt-0 pt-0" style="border: none";>${ingredient1}</li>
-                        <li class="list-group-item mt-0 pt-0" style="border: none";>${ingredient2}</li>
-                        <li class="list-group-item mt-0 pt-0" style="border: none";>${ingredient3}</li>
-                        <li class="list-group-item mt-0 pt-0" style="border: none";>${ingredient4}</li>
-                        <li class="list-group-item mt-0 pt-0" style="border: none";>${ingredient5}</li>
+                        <li class="list-group-item mt-0 pt-0" style="border: none";><i class="fas fa-check-circle list-color"></i> ${ingredient1}</li>
+                        <li class="list-group-item mt-0 pt-0" style="border: none";><i class="fas fa-check-circle list-color"></i> ${ingredient2}</li>
+                        <li class="list-group-item mt-0 pt-0" style="border: none";><i class="fas fa-check-circle list-color"></i> ${ingredient3}</li>
+                        <li class="list-group-item mt-0 pt-0" style="border: none";><i class="fas fa-check-circle list-color"></i> ${ingredient4}</li>
+                        <li class="list-group-item mt-0 pt-0" style="border: none";><i class="fas fa-check-circle list-color"></i> ${ingredient5}</li>
                     </ul>
                 </div>
                 `;
